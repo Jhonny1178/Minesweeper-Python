@@ -1,1 +1,1 @@
-# Minesweeper-Python
+A complete, functional implementation of the classic Minesweeper game developed in Python. This project serves to demonstrate object-oriented programming principles and complex logical design using the Python language.
