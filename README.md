@@ -8,9 +8,9 @@ A classic Minesweeper clone built with Python to practice graph traversal and al
 
 ## Key Features
 
-* ** Customizable Safe Start:** The first click is never a mine. The algorithm ensures a safe area around the initial click to get the game moving. This is easily adjustable in the code for a more harder start.
-* ** Chording Mechanic:** Implemented advanced fast-clearing. If you have flagged the correct number of mines around a number, clicking that number will automatically reveal all remaining adjacent tiles.
-* ** Stack-based DFS Discovery:** I used a stack-based DFS for cascading empty tile reveals.
+* **Customizable Safe Start:** The first click is never a mine. The algorithm ensures a safe area around the initial click to get the game moving. This is easily adjustable in the code for a more harder start.
+* **Chording Mechanic:** Implemented advanced fast-clearing. If you have flagged the correct number of mines around a number, clicking that number will automatically reveal all remaining adjacent tiles.
+* **Stack-based DFS Discovery:** I used a stack-based DFS for cascading empty tile reveals.
 
 ## Requirements & Running
 
